@@ -99,6 +99,10 @@
     margin: 0 auto;
 }
 
+.section-title-connectivity {
+    max-width: 1300px;
+}
+
 .section-title .sub-style {
     position: relative;
     display: inline-block;
